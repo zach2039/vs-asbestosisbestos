@@ -1,0 +1,68 @@
+[
+    {
+        "file": "game:blocktypes/stone/ore-ungraded.json",
+        "op": "addmerge",
+        "path": "/variantgroups/0/states/-",
+        "value": "amphiboleasbestos"
+    },
+    {
+        "file": "game:blocktypes/stone/ore-ungraded.json",
+        "op": "addmerge",
+        "path": "/requiredMiningTierByType/ore-amphiboleasbestos-*",
+        "value": 2
+    },
+    {
+        "file": "game:blocktypes/stone/ore-ungraded.json",
+        "op": "addmerge",
+        "path": "/allowedVariants/-",
+        "value": "ore-amphiboleasbestos-andesite"
+    },
+    {
+        "file": "game:blocktypes/stone/ore-ungraded.json",
+        "op": "addmerge",
+        "path": "/allowedVariants/-",
+        "value": "ore-amphiboleasbestos-slate"
+    },
+    {
+        "file": "game:blocktypes/stone/ore-ungraded.json",
+        "op": "addmerge",
+        "path": "/allowedVariants/-",
+        "value": "ore-amphiboleasbestos-limestone"
+    },
+    {
+        "file": "game:blocktypes/stone/ore-ungraded.json",
+        "op": "addmerge",
+        "path": "/allowedVariants/-",
+        "value": "ore-amphiboleasbestos-conglomerate"
+    },
+    {
+        "file": "game:blocktypes/stone/ore-ungraded.json",
+        "op": "addmerge",
+        "path": "/allowedVariants/-",
+        "value": "ore-amphiboleasbestos-claystone"
+    },
+    {
+        "file": "game:blocktypes/stone/ore-ungraded.json",
+        "op": "addmerge",
+        "path": "/allowedVariants/-",
+        "value": "ore-amphiboleasbestos-chalk"
+    },
+    {
+        "file": "game:blocktypes/stone/ore-ungraded.json",
+        "op": "addmerge",
+        "path": "/allowedVariants/-",
+        "value": "ore-amphiboleasbestos-basalt"
+    },
+    {
+        "file": "game:blocktypes/stone/ore-ungraded.json",
+        "op": "addmerge",
+        "path": "/allowedVariants/-",
+        "value": "ore-amphiboleasbestos-whitemarble"
+    },
+    {
+        "file": "game:blocktypes/stone/ore-ungraded.json",
+        "op": "addmerge",
+        "path": "/allowedVariants/-",
+        "value": "ore-amphiboleasbestos-greenmarble"
+    }
+]

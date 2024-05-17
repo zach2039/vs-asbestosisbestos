@@ -1,0 +1,46 @@
+Clay minerals
+    Talc
+        Occurs in:
+            Peridotite (green)
+            Marble (white)
+        Uses:
+            Clay filler for ceramics
+            White dye
+            Lubricant
+
+Asbestos minerals
+    Serpentine asbestos (white asbestos)
+        Occurs in:
+            Peridotite
+        Uses:
+            Fireproof fabrics
+            Plaster filler
+            Clay filler for ceramics
+
+    Amphibole asbestos (blue or brown asbestos)
+        Occurs as child deposit in: 
+            Talc
+        Occurs in:
+            Marble
+            Basalt
+            Magnetite (Slate, Andesite)
+            Pyrite (Limestone)
+            Hematite (Limestone)
+            Magnetite (Conglomerate, Claystone, Chalk)
+        Uses:
+            Plaster filler
+            Clay filler for ceramics
+
+Evaporite minerals
+    Gypsum
+        Occurs in:
+            Any area with at least one sedimentary rock layer (except Bauxite)
+        Uses:
+            Plaster of paris
+            Soil conditioner (increases max moisture by 25%, single use that lasts for 3 months)
+
+Resources
+    Plaster of paris
+        Uses:
+            Plaster
+            Mortar

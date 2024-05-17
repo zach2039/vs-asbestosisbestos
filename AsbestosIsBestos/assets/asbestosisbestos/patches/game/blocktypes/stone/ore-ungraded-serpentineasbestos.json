@@ -1,0 +1,20 @@
+[
+    {
+        "file": "game:blocktypes/stone/ore-ungraded.json",
+        "op": "addmerge",
+        "path": "/variantgroups/0/states/-",
+        "value": "serpentineasbestos"
+    },
+    {
+        "file": "game:blocktypes/stone/ore-ungraded.json",
+        "op": "addmerge",
+        "path": "/requiredMiningTierByType/ore-serpentineasbestos-*",
+        "value": 2
+    },
+    {
+        "file": "game:blocktypes/stone/ore-ungraded.json",
+        "op": "addmerge",
+        "path": "/allowedVariants/-",
+        "value": "ore-serpentineasbestos-peridotite"
+    }
+]

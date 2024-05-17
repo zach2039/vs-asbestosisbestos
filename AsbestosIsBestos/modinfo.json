@@ -1,0 +1,13 @@
+{
+    "type": "code",
+    "modid": "asbestosisbestos",
+    "name": "Asbestos Is Bestos",
+    "authors": [
+        "Zach2039"
+    ],
+    "description": "Adds asbestos variants, gypsum variants, and associated products.",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": "*"
+    }
+}
